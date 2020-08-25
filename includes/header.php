@@ -7,11 +7,11 @@
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
 		<link href="https://cdn.lineicons.com/2.0/LineIcons.css" rel="stylesheet">
 		<script src="node_modules/jquery/dist/jquery.min.js"></script>
+		<script src="node_modules/reframe.js/dist/jquery.reframe.min.js"></script>
 		<title>Legion - Artist</title>
 	</head>
 	<div class="nav-wrap">
-		<a href="index"><img src="assets/img/legion-logo.png" alt="Logo" class="logo"></a>
-		<h1>LEGION</h1>
+		<a href="index"><img src="assets/img/legion-logo-3.png" alt="Logo" class="logo"></a>
 		<div id="nav-social-wrap">
 			<a href="https://open.spotify.com/artist/2uHQBKGT8cy3qDHuIqYX2z"><i class="lni lni-spotify icon"></i></a>
 			<a href="https://www.facebook.com/LegionOfficialUK/"><i class="lni lni-facebook-oval icon"></i></a>
@@ -29,7 +29,7 @@
 	
 	<div>
 		<div class="mobile-menu hide">
-			<i class="lni lni-close cross icon"></i>
+			<i class="lni lni-close cross"></i>
 			<a href="listen">Listen</a>
 			<a href="about">About</a>
 			<a href="contact">Contact</a>
