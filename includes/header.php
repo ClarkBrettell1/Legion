@@ -10,7 +10,7 @@
 		<title>Legion - Artist</title>
 	</head>
 	<div class="nav-wrap">
-		<a href="index"><img src="assets/img/logo.png" alt="Logo"></a>
+		<a href="index"><img src="assets/img/legion-logo.png" alt="Logo" class="logo"></a>
 		<h1>LEGION</h1>
 		<div id="nav-social-wrap">
 			<a href="https://open.spotify.com/artist/2uHQBKGT8cy3qDHuIqYX2z"><i class="lni lni-spotify icon"></i></a>
